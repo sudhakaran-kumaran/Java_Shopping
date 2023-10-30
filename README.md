@@ -1,9 +1,12 @@
 # Java_Shopping
 
 Challenges : 
+
 1.Understanding the flow was my first difficulty.Now,I'm strong in flow.
-2.loading products using csv file.After understanding csv file concept it is very easy.
-3.Reading the file.
+2.Reading the file.
+3.loading products using csv file.After understanding csv file concept it is very easy.
+4.Array out of bound exception error.Then,I've fix it.
+
 
 1. Login - Existing User and Admin
 2. Register - New User
